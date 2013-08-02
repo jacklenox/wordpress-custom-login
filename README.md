@@ -1,4 +1,4 @@
-WordPress-Custom-Login
+WordPress Custom Login
 ======================
 
 Scripts required for a custom login with WordPress.
